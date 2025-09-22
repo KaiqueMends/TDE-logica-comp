@@ -21,6 +21,7 @@ body {
     overflow: hidden; /* Evita barras de rolagem desnecessárias */
 }
 
+
 .container {
     background-color: var(--button-bg);
     padding: 30px;

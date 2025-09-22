@@ -22,6 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
             button.classList.remove('active');
         }, 300); // Duração do brilho
     }
+    
 
     // Gerar a próxima cor na sequência
     function nextSequence() {
